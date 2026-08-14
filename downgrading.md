@@ -1,4 +1,5 @@
 # Simple, quick downgrade guide:
+# FOR USERS WHO WANT TO DOWNGRADE FROM IOS 27 BETA 5 OR HIGHER.. DONT USE THIS WITH ANY OTHER VERSIONS.
 
 ### Step 1: Get your IPSW:
 
