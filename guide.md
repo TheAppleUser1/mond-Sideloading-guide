@@ -38,7 +38,7 @@
 - If it asks for a verification code, enter it.
 
 
-# WSF method (hard, if you have a computer, i'd rather use Sideloadly) (USE SAFARI!!!)
+# WSF method (You only need your phone) (hard, if you have a computer, i'd rather use Sideloadly) (USE SAFARI!!!)
 
 ### Step 1: Open the website.
 
