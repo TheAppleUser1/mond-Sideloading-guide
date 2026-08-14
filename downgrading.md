@@ -1,5 +1,6 @@
 # Simple, quick downgrade guide:
 # FOR USERS WHO WANT TO DOWNGRADE FROM IOS 27 BETA 5 OR HIGHER.. DONT USE THIS WITH ANY OTHER VERSIONS.
+# warning and heads up: If you have a replaced screen and or battery, please do downgrading carefully, because your phone might not work afterwards. this only occurs with aftermarket parts, not with Apple Original parts.
 
 ### Step 1: Get your IPSW:
 
