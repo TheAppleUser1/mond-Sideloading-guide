@@ -23,6 +23,7 @@
 - Open Apple Devices, navigate to your device.
 - Click Control, while holding down control, click check for updates.
 - Select the IPSW file.
+- wait until your iPhone fully boots up. dont unplug your phone in this process, you will corrupt it.
 
 ### thats it, enjoy :3
 
