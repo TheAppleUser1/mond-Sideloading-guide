@@ -22,7 +22,7 @@
 - Download "Apple Devices" if you dont have it from the Microsoft Store.
 - Plug your iPhone in to your Windows PC.
 - Open Apple Devices, navigate to your device.
-- Click Control, while holding down control, click check for updates.
+- Click Shift, while holding down Shift, click check for updates.
 - Select the IPSW file.
 - wait until your iPhone fully boots up. dont unplug your phone in this process, you will corrupt it.
 
