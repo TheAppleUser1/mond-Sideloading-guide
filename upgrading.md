@@ -1,5 +1,5 @@
 # Upgrading guide!
-# FOR USERS WHO WANT TO DOWNGRADE FROM ANY IOS VERSION BEFORE BETA 4!
+# FOR USERS WHO WANT TO UPGRADE FROM ANY IOS VERSION BEFORE BETA 4!
 # warning and heads up: If you have a replaced screen and or battery, please do upgrading carefully, because your phone might not work afterwards. this only occurs with aftermarket parts, not with Apple Original parts. We do not own any responsibility for your device's state, use, and follow this guide at your own risk.
 
 ### Step 1: Get your IPSW:
