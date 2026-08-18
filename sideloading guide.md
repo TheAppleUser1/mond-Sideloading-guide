@@ -17,7 +17,7 @@
 
 # Impactor (Highly suggested by the mond team)
 
-Impactor has a guide available aswell. [Impactor guide](https://impactor.claration.dev/docs/introduction/)
+### Impactor has a guide available aswell. [Impactor guide](https://impactor.claration.dev/docs/introduction/)
 
 # WSF method (You only need your phone) (hard, if you have a computer, i'd rather use Sideloadly) (USE SAFARI!!!)
 
