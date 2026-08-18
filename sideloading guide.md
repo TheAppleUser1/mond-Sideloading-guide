@@ -3,40 +3,21 @@
 ## The quide goes from the point from where you already have the mond.ipa file on your device.
 ## We will not give support in the mond Discord server, if you read the guide, and follow steps correctly, it will work.
 
-## There are two methods, one requires a PC or Mac, and the other one does not.
+## There are multiple methods, choose one by your liking.
 
-# Sideloadly (you need a PC or Mac)
+# SideStore
 
-### Please make sure you have all of the following:
+### Because SideStore have made a guide themselves, which is literally good, use that. Guide: [SideStore Guide](https://docs.sidestore.io/docs/installation/prerequisites)
 
-- Charging cable,
-- Your Apple Account password and E-mail, and the ability to view verification codes.
+# AltStore
 
-### Step 1: Installing Sideloadly.
+### Same case with SideStore, they also made a guide.
+### Windows: [Windows Guide for AltStore](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
+### macOS: [macOS Guide for AltStore](https://faq.altstore.io/altstore-classic/how-to-install-altstore-macos)
 
-- Hop onto the [Sideloadly website](https://sideloadly.io) and download Sideloadly for the OS you have.
-- Install it onto your computer (this is pretty straightforward.)
+# Impactor (Highly suggested by the mond team)
 
-### Step 2: Configure Sideloadly
-
-- Click the gear icon in Sideloadly <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/b0c9bc49-1ab7-49d5-8b40-42b4489e33ae" /> which can be found next to the device picker field.
-- Once in Settings, under Anisette authentication pick: Remote. This will bring up a popup.
-- Here, click "Login" which will bring you to the Patreon log in page. Info: You don't need to pay.
-- Here, Just create a Patreon account, or sign into one.
-- Once you're done with that, reopen Sideloadly
-- Click OK
-
-### Step 3: Install the IPA
-
-- Click that IPA icon, which will bring up a file explorer, or Finder on Mac.
-- Pick the mond.ipa file, and open it.
-- Plug your iPhone/iPad in to your computer.
-- If not automatically picked, click the device selection field, and pick your iDevice.
-- Enter your Apple Account Email Address into the Apple ID field.
-- Click Start.
-- Once Sideloadly brings up "Enter your AppleID password" enter it. (Don't worry. Your data is not getting sent neither us, or Sideloadly.)
-- If it asks for a verification code, enter it.
-
+Impactor has a guide available aswell. [Impactor guide](https://impactor.claration.dev/docs/introduction/)
 
 # WSF method (You only need your phone) (hard, if you have a computer, i'd rather use Sideloadly) (USE SAFARI!!!)
 
@@ -142,3 +123,42 @@
 
 ##### guide made by [ThatAppleUser](https://x.com/ThatAppleUser_).
 ##### we are not affiliated with Sideloadly, WSF or anything mentioned above. Everything is used at your own risk.
+
+
+# Deprecated methods (They work, but there are easier ones available.)
+
+<details>
+  <summary>Sideloadly, Last case scenario, if nothing works. Click to expand.</summary>
+  
+  # Sideloadly (you need a PC or Mac)
+
+### Please make sure you have all of the following:
+
+- Charging cable,
+- Your Apple Account password and E-mail, and the ability to view verification codes.
+
+### Step 1: Installing Sideloadly.
+
+- Hop onto the [Sideloadly website](https://sideloadly.io) and download Sideloadly for the OS you have.
+- Install it onto your computer (this is pretty straightforward.)
+
+### Step 2: Configure Sideloadly
+
+- Click the gear icon in Sideloadly <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/b0c9bc49-1ab7-49d5-8b40-42b4489e33ae" /> which can be found next to the device picker field.
+- Once in Settings, under Anisette authentication pick: Remote. This will bring up a popup.
+- Here, click "Login" which will bring you to the Patreon log in page. Info: You don't need to pay.
+- Here, Just create a Patreon account, or sign into one.
+- Once you're done with that, reopen Sideloadly
+- Click OK
+
+### Step 3: Install the IPA
+
+- Click that IPA icon, which will bring up a file explorer, or Finder on Mac.
+- Pick the mond.ipa file, and open it.
+- Plug your iPhone/iPad in to your computer.
+- If not automatically picked, click the device selection field, and pick your iDevice.
+- Enter your Apple Account Email Address into the Apple ID field.
+- Click Start.
+- Once Sideloadly brings up "Enter your AppleID password" enter it. (Don't worry. Your data is not getting sent neither us, or Sideloadly.)
+- If it asks for a verification code, enter it.
+</details>
