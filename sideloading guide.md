@@ -1,7 +1,8 @@
 # This guide will help you with installing mond onto your iOS/iPadOS device.
 ## Please follow all instructions thoroughly, as we don't want to provide support for this 24/7.
-## The quide goes from the point from where you already have the mond.ipa file on your device.
+## The quide goes from the point from where you already have the mond.ipa file on your device. 
 ## We will not give support in the mond Discord server, if you read the guide, and follow steps correctly, it will work.
+## You can use this guide to sideload GestaltEdit also, follow the same steps freely.
 
 ## There are multiple methods, choose one by your liking.
 
